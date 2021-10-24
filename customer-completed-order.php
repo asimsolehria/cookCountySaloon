@@ -14,8 +14,8 @@ $address;
 
 <body style="-moz-box-sizing: border-box; -ms-text-size-adjust: 100%; -webkit-box-sizing: border-box; -webkit-text-size-adjust: 100%; box-sizing: border-box; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 22px; margin: 0; min-width: 100%; padding: 0; text-align: left; width: 100% !important">
     <style type="text/css">
+
         body {
-            background-color: brown;
             width: 100% !important;
             min-width: 100%;
             -webkit-text-size-adjust: 100%;
@@ -889,18 +889,18 @@ $address;
                             </tr>
                         </tbody>
                     </table>
-                    <table class="milkyway-email-card container float-center" align="center" style="background: #FFFFFF; border-collapse: collapse; border-radius: 6px; border-spacing: 0; box-shadow: 0 1px 8px 0 rgba(28,35,43,0.15); float: none; margin: 0 auto; overflow: hidden; padding: 0; text-align: center; vertical-align: top; width: 580px" bgcolor="#FFFFFF">
+                    <table class="milkyway-email-card container float-center" align="center" style="background: #502002; border-collapse: collapse; border-radius: 6px; border-spacing: 0; box-shadow: 0 1px 8px 0 rgba(28,35,43,0.15); float: none; margin: 0 auto; overflow: hidden; padding: 0; text-align: center; vertical-align: top; width: 580px" bgcolor="#FFFFFF">
                         <tbody>
                             <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
                                 <td style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; hyphens: none; line-height: 1.3; margin: 0; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">
-                                    <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                    <table class=" spacer " style="background-color: #502002; border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
                                         <tbody>
                                             <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
                                                 <td height="30px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 30px; font-weight: normal; hyphens: none; line-height: 30px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;</td>
                                             </tr>
                                         </tbody>
                                     </table>
-                                    <table class="milkyway-content flash-info row" style="border-collapse: collapse; border-spacing: 0; color: #6F7881; display: table; hyphens: none; margin: auto; max-width: 100%; padding: 0; position: relative; text-align: left; vertical-align: top; width: 280px !important">
+                                    <table class="milkyway-content flash-info row" style="background-color: #502002; border-collapse: collapse; border-spacing: 0; color: #6F7881; display: table; hyphens: none; margin: auto; max-width: 100%; padding: 0; position: relative; text-align: left; vertical-align: top; width: 280px !important">
                                         <tbody>
                                             <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
                                                 <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
@@ -2138,12 +2138,7 @@ cflaDoI2hObL6fv4hqcwtPaSNHqxWd+Lo+jeKf4rTphm2ahK/oc0Dx74L2Hl
                                                                                                 <td class="em_side" style="width: 38px;" width="38">&nbsp; </td>
                                                                                                 <td style="width: 36px;" width="36" align="center" valign="top"> <a style="text-decoration: none;" href="https://mail.picmonkey.com/e2t/tc/VXjJWS91dbNXW3Pn8d22tRr9vW8pQGPD4jt8sWN63y6mw2-HvfV1-WJV7CgLT-W8F05nZ6JsDbFW40jFVZ18QTg4W5C_0ns2GSdz3W8Nwqlg1J075LW5DNZFk7VgM7LW5-MTkJ3wzs52W5RxQK14JrqHnW7gfwwb8Lsm6yVlMDWT5vrNkbW8C3sCt6J2Rl5W5SzdDq3J911DW6MXqtM50zYVlW3tVdHD5Qlf59W6Z6TSP8CXcZbW1N2rLn2xDz_TW5SGt4v6wdJKSW4xdx3b3WfkR-W6MyDl28rgLFJ3pZN1" target="_blank" data-hs-link-id="0"> <img style="display: block; font-family: Arial, sans-serif; font-size: 11px; line-height: 13px; color: #ffffff; max-width: 36px;" src="https://images.emailaptitude.com/Pic_Monkey/2020/07_July/07.20.20_Make-This-Thing/tw.png" border="0" alt="Instagram" width="36" height="36"> </a> </td>
                                                                                                 <td class="em_side" style="width: 38px;" width="38">&nbsp; </td>
-                                                                                                <td style="width: 36px;" width="36" align="center" valign="top"> <a style="text-decoration: none;" href="https://mail.picmonkey.com/e2t/tc/VXjJWS91dbNXW3Pn8d22tRr9vW8pQGPD4jt8sWN63y6mw2-HvfV1-WJV7CgNwgN43HycT7F-nyW97pMPr3k0q9DW7fflLX96hJVYN2BvMhzZNBV1W356cTY7VXzlzW7v7qVs4lDTKGW2Wrz971mqfPyW2y_0yh23wnyDW4Ny_fH7F-pKLVTLzb23SPQFlVXqzwn2R4n9sN6mwvGLGm_DhW9k_WwP6P6JCSW7WSXgY4bzYrlN576s6hHv8lxW3P4fMW5qjkZVVmH2PT3-8XV6W2WDn918jW4wP32JH1" target="_blank" data-hs-link-id="0"> <img style="display: block; font-family: Arial, sans-serif; font-size: 11px; line-height: 13px; color: #ffffff; max-width: 36px;" src="https://images.emailaptitude.com/Pic_Monkey/2020/07_July/07.20.20_Make-This-Thing/pt.png" border="0" alt="YouTube" width="36" height="36"> </a> </td>
-                                                                                                <td class="em_side" style="width: 38px;" width="38">&nbsp; </td>
-                                                                                                <td style="width: 36px;" width="36" align="center" valign="top"> <a style="text-decoration: none;" href="https://mail.picmonkey.com/e2t/tc/VXjJWS91dbNXW3Pn8d22tRr9vW8pQGPD4jt8sWN63y6mw2-HvfV1-WJV7Cg-C2W12KPFC12KhqQW84Zm3g3b5yKcW7L89xV2F86KcW7QjHmM10WbLVW1xRCZ12F1HP2W6XhfQN3FcqSSW8Knrgg7zCP-ZW4g_kvN5LFkgVW7qVWX44lzrQbW3xn-Yh40xJm4W3vPgrL57N4p4W5qt_6J4Y83ptW2LKfFy1zQNq8V2pgQM18F2WDVVzP5d2NhNlRN3XBzq9hjshzW6XhbM_8sGFfwW3Cwg-r34bLr_39gB1" target="_blank" data-hs-link-id="0"> <img style="display: block; font-family: Arial, sans-serif; font-size: 11px; line-height: 13px; color: #ffffff; max-width: 36px;" src="https://images.emailaptitude.com/Pic_Monkey/2020/07_July/07.20.20_Make-This-Thing/li.png" border="0" alt="LinkedIn" width="36" height="36"> </a> </td>
-                                                                                                <td class="em_side" style="width: 38px;" width="38">&nbsp; </td>
-                                                                                                <td style="width: 36px;" width="36" align="center" valign="top"> <a style="text-decoration: none;" href="https://mail.picmonkey.com/e2t/tc/VXjJWS91dbNXW3Pn8d22tRr9vW8pQGPD4jt8sWN63y6mw2-HvfV1-WJV7CgXKmW98Q0Zq7Gw4BtW3PjqMS6mKrWVW8Y3Npw7X_SCHW7SBV2d8RkCDwW8yJxr52hvh9sW6Pq8-w8V3LgSW6QB93Y6Sh-3CVwb8QP8rxp0xW3zV5VX5V2knqW6X9HLc5LpKg0N7DLv3PqRrhDW82z7qY2l5P8HVqzj1R5Dd71zW7wZ-655tWGgXVfFl3q7vMZ-qW1ZFmj460rH1LW9dVPh_7NxrHRW5nCchZ7h7j_J3qqP1" target="_blank" data-hs-link-id="0"> <img style="display: block; font-family: Arial, sans-serif; font-size: 11px; line-height: 13px; color: #ffffff; max-width: 36px;" src="https://images.emailaptitude.com/Pic_Monkey/2020/07_July/07.20.20_Make-This-Thing/yt.png" border="0" alt="LinkedIn" width="36" height="36"> </a> </td>
-                                                                                                <td class="em_side" style="width: 38px;" width="38">&nbsp; </td>
+                                                                                                    
                                                                                             </tr>
                                                                                         </tbody>
                                                                                     </table>
@@ -2170,7 +2165,7 @@ cflaDoI2hObL6fv4hqcwtPaSNHqxWd+Lo+jeKf4rTphm2ahK/oc0Dx74L2Hl
                                             <!--===footer section=== -->
                                             <tr>
                                                 <td align="center" valign="top">
-                                                    <table bgcolor="#2e343e" align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:600px;" width="600">
+                                                    <table bgcolor="#502002" align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:600px;" width="600">
                                                         <tbody>
                                                             <tr>
                                                                 <td align="center" valign="top">
