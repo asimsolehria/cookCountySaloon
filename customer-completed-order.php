@@ -14,7 +14,6 @@ $address;
 
 <body style="-moz-box-sizing: border-box; -ms-text-size-adjust: 100%; -webkit-box-sizing: border-box; -webkit-text-size-adjust: 100%; box-sizing: border-box; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 22px; margin: 0; min-width: 100%; padding: 0; text-align: left; width: 100% !important">
     <style type="text/css">
-
         body {
             width: 100% !important;
             min-width: 100%;
@@ -1720,7 +1719,8 @@ cflaDoI2hObL6fv4hqcwtPaSNHqxWd+Lo+jeKf4rTphm2ahK/oc0Dx74L2Hl
                                                                                     <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
                                                                                         <tbody>
                                                                                             <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                                <td height="25px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 25px; font-weight: normal; hyphens: none; line-height: 25px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;</td>
+                                                                                                <td height="25px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 25px; font-weight: normal; hyphens: none; line-height: 25px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;
+                                                                                                </td>
                                                                                             </tr>
                                                                                         </tbody>
                                                                                     </table>
@@ -1732,217 +1732,7 @@ cflaDoI2hObL6fv4hqcwtPaSNHqxWd+Lo+jeKf4rTphm2ahK/oc0Dx74L2Hl
                                                             </tr>
                                                         </tbody>
                                                     </table>
-                                                    <table class="milkyway-content payment-information container" align="center" style="background: #FFFFFF; border-collapse: collapse; border-spacing: 0; hyphens: none; margin: auto; max-width: 100%; padding: 0; text-align: inherit; vertical-align: top; width: 280px !important" bgcolor="#FFFFFF">
-                                                        <tbody>
-                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                <td style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; hyphens: none; line-height: 1.3; margin: 0; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">
-                                                                    <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                        <tbody>
-                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                <td height="24px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: normal; hyphens: none; line-height: 24px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;</td>
-                                                                            </tr>
-                                                                        </tbody>
-                                                                    </table>
-                                                                    <table class=" row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
-                                                                        <tbody>
-                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
-                                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                        <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
-                                                                                                <h3 style="color: inherit; font-family: Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 600; line-height: 26px; margin: 0 0 10px; padding: 0; text-align: left; word-wrap: normal" align="left">Payment Information</h3>
-                                                                                            </th>
-                                                                                            <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
-                                                                                        </tr>
-                                                                                    </table>
-                                                                                </th>
-                                                                            </tr>
-                                                                        </tbody>
-                                                                    </table>
-                                                                    <table class=" row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
-                                                                        <tbody>
-                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                <th class=" small-7 large-7 columns first" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 322.3333333333px" align="left">
-                                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                        <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
-                                                                                                <small style="color: #6F7881; font-size: 14px; font-weight: normal; line-height: 20px">Order Item</small>
-                                                                                            </th>
-                                                                                        </tr>
-                                                                                    </table>
-                                                                                </th>
-                                                                                <th class="text-right small-5 large-5 columns last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: right; width: 225.6666666667px" align="right">
-                                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                        <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: right" align="right">
-                                                                                                <small style="color: #6F7881; font-size: 14px; font-weight: normal; line-height: 20px">Amount</small>
-                                                                                            </th>
-                                                                                        </tr>
-                                                                                    </table>
-                                                                                </th>
-                                                                            </tr>
-                                                                        </tbody>
-                                                                    </table>
-                                                                    <?php
-                                                                    foreach ($order->get_items() as $key => $value) {
-                                                                    ?>
-                                                                        <table class="line-item-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
-                                                                            <tbody>
-                                                                                <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                    <th class=" small-7 large-7 columns first" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0 auto; padding: 0; text-align: left; width: 322.3333333333px" align="left">
-                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                            <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0; padding: 0; text-align: left" align="left">
-                                                                                                    <?php echo $value['name']; ?>
-                                                                                                </th>
-                                                                                            </tr>
-                                                                                        </table>
-                                                                                    </th>
-                                                                                    <th class="text-right small-5 large-5 columns last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0 auto; padding: 0; text-align: right; width: 225.6666666667px" align="right">
-                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                            <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0; padding: 0; text-align: right" align="right">
-                                                                                                    <?php echo '$';
-                                                                                                    echo $value['subtotal'] ?>
-                                                                                                </th>
-                                                                                            </tr>
-                                                                                        </table>
-                                                                                    </th>
-                                                                                </tr>
-                                                                            </tbody>
-                                                                        </table>
 
-
-
-
-                                                                    <?php   # code...
-                                                                    }
-
-                                                                    ?>
-
-                                                                    <hr style="border-style: solid none none; border-top-color: #E2E5E7; border-top-width: 1px" />
-                                                                    <table class="line-item-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
-                                                                        <tbody>
-                                                                            <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                <th class=" small-7 large-7 columns first" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0 auto; padding: 0; text-align: left; width: 322.3333333333px" align="left">
-                                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                        <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0; padding: 0; text-align: left" align="left">
-                                                                                                Total
-                                                                                            </th>
-                                                                                        </tr>
-                                                                                    </table>
-                                                                                </th>
-                                                                                <th class="text-right small-5 large-5 columns last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0 auto; padding: 0; text-align: right; width: 225.6666666667px" align="right">
-                                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                        <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0; padding: 0; text-align: right" align="right">
-                                                                                                <?php echo '$';
-                                                                                                echo $order->get_total(); ?>
-                                                                                            </th>
-                                                                                        </tr>
-                                                                                    </table>
-                                                                                </th>
-                                                                            </tr>
-                                                                        </tbody>
-                                                                    </table>
-                                                                    <hr style="border-style: solid none none; border-top-color: #E2E5E7; border-top-width: 1px" />
-                                                                    <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                        <tbody>
-                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                <td height="20px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 20px; font-weight: normal; hyphens: none; line-height: 20px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;</td>
-                                                                            </tr>
-                                                                        </tbody>
-                                                                    </table>
-
-                                                                    <?php
-                                                                    if (ticket($order)) {
-                                                                    ?>
-                                                                        <table class="order-details-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
-                                                                            <tbody>
-                                                                                <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                    <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
-                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                            <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
-                                                                                                    <strong><?php echo 'First Name:';
-                                                                                                            echo $order->get_billing_first_name() ?></strong>
-                                                                                                </th>
-                                                                                                <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
-                                                                                            </tr>
-                                                                                        </table>
-                                                                                    </th>
-                                                                                </tr>
-                                                                            </tbody>
-                                                                        </table>
-                                                                        <table class="order-details-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
-                                                                            <tbody>
-                                                                                <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                    <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
-                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                            <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
-                                                                                                    <strong><?php echo 'Last Name:';
-                                                                                                            echo $order->get_billing_last_name() ?></strong>
-                                                                                                </th>
-                                                                                                <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
-                                                                                            </tr>
-                                                                                        </table>
-                                                                                    </th>
-                                                                                </tr>
-                                                                            </tbody>
-                                                                        </table>
-                                                                        <table class="order-details-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
-                                                                            <tbody>
-                                                                                <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                    <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
-                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                            <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
-                                                                                                    <strong><?php echo 'Email: ';
-                                                                                                            echo $order->get_billing_email() ?></strong>
-                                                                                                </th>
-                                                                                                <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
-                                                                                            </tr>
-                                                                                        </table>
-                                                                                    </th>
-                                                                                </tr>
-                                                                            </tbody>
-                                                                        </table>
-                                                                    <?php
-                                                                    } else {
-                                                                    ?>
-                                                                        <table class="order-details-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
-                                                                            <tbody>
-                                                                                <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                    <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
-                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                            <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
-                                                                                                    <?php echo $order->get_formatted_billing_address() ?>
-                                                                                                </th>
-                                                                                                <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
-                                                                                            </tr>
-                                                                                        </table>
-                                                                                    </th>
-                                                                                </tr>
-                                                                            </tbody>
-                                                                        </table>
-                                                                    <?php
-                                                                    }
-                                                                    ?>
-
-                                                                    <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                        <tbody>
-                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                <td height="24px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: normal; hyphens: none; line-height: 24px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;</td>
-                                                                            </tr>
-                                                                        </tbody>
-                                                                    </table>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
                                                     <table class="additional-info space-darker-bkg container" align="center" style="background-color: #F5F5F5 !important; border-collapse: collapse; border-spacing: 0; margin: 0 auto; padding: 0; text-align: inherit; vertical-align: top; width: 580px" bgcolor="#F5F5F5">
                                                         <tbody>
                                                             <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
@@ -2056,7 +1846,219 @@ cflaDoI2hObL6fv4hqcwtPaSNHqxWd+Lo+jeKf4rTphm2ahK/oc0Dx74L2Hl
                                                                     <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
                                                                         <tbody>
                                                                             <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                <td height="24px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: normal; hyphens: none; line-height: 24px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;</td>
+                                                                                <td height="24px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: normal; hyphens: none; line-height: 24px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">
+                                                                                    <table class="milkyway-content payment-information container" align="center" style="background: #FFFFFF; border-collapse: collapse; border-spacing: 0; hyphens: none; margin: auto; max-width: 100%; padding: 0; text-align: inherit; vertical-align: top; width: 280px !important" bgcolor="#FFFFFF">
+                                                                                        <tbody>
+                                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                <td style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; hyphens: none; line-height: 1.3; margin: 0; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">
+                                                                                                    <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                        <tbody>
+                                                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                <td height="24px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: normal; hyphens: none; line-height: 24px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;</td>
+                                                                                                            </tr>
+                                                                                                        </tbody>
+                                                                                                    </table>
+                                                                                                    <table class=" row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
+                                                                                                        <tbody>
+                                                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
+                                                                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                        <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
+                                                                                                                                <h3 style="color: inherit; font-family: Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 600; line-height: 26px; margin: 0 0 10px; padding: 0; text-align: left; word-wrap: normal" align="left">Payment Information</h3>
+                                                                                                                            </th>
+                                                                                                                            <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
+                                                                                                                        </tr>
+                                                                                                                    </table>
+                                                                                                                </th>
+                                                                                                            </tr>
+                                                                                                        </tbody>
+                                                                                                    </table>
+                                                                                                    <table class=" row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
+                                                                                                        <tbody>
+                                                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                <th class=" small-7 large-7 columns first" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 322.3333333333px" align="left">
+                                                                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                        <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
+                                                                                                                                <small style="color: #6F7881; font-size: 14px; font-weight: normal; line-height: 20px">Order Item</small>
+                                                                                                                            </th>
+                                                                                                                        </tr>
+                                                                                                                    </table>
+                                                                                                                </th>
+                                                                                                                <th class="text-right small-5 large-5 columns last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: right; width: 225.6666666667px" align="right">
+                                                                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                        <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: right" align="right">
+                                                                                                                                <small style="color: #6F7881; font-size: 14px; font-weight: normal; line-height: 20px">Amount</small>
+                                                                                                                            </th>
+                                                                                                                        </tr>
+                                                                                                                    </table>
+                                                                                                                </th>
+                                                                                                            </tr>
+                                                                                                        </tbody>
+                                                                                                    </table>
+                                                                                                    <?php
+                                                                                                    foreach ($order->get_items() as $key => $value) {
+                                                                                                    ?>
+                                                                                                        <table class="line-item-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
+                                                                                                            <tbody>
+                                                                                                                <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                    <th class=" small-7 large-7 columns first" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0 auto; padding: 0; text-align: left; width: 322.3333333333px" align="left">
+                                                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                            <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0; padding: 0; text-align: left" align="left">
+                                                                                                                                    <?php echo $value['name']; ?>
+                                                                                                                                </th>
+                                                                                                                            </tr>
+                                                                                                                        </table>
+                                                                                                                    </th>
+                                                                                                                    <th class="text-right small-5 large-5 columns last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0 auto; padding: 0; text-align: right; width: 225.6666666667px" align="right">
+                                                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                            <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0; padding: 0; text-align: right" align="right">
+                                                                                                                                    <?php echo '$';
+                                                                                                                                    echo $value['subtotal'] ?>
+                                                                                                                                </th>
+                                                                                                                            </tr>
+                                                                                                                        </table>
+                                                                                                                    </th>
+                                                                                                                </tr>
+                                                                                                            </tbody>
+                                                                                                        </table>
+
+
+
+
+                                                                                                    <?php   # code...
+                                                                                                    }
+
+                                                                                                    ?>
+
+                                                                                                    <hr style="border-style: solid none none; border-top-color: #E2E5E7; border-top-width: 1px" />
+                                                                                                    <table class="line-item-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
+                                                                                                        <tbody>
+                                                                                                            <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                <th class=" small-7 large-7 columns first" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0 auto; padding: 0; text-align: left; width: 322.3333333333px" align="left">
+                                                                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                        <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0; padding: 0; text-align: left" align="left">
+                                                                                                                                Total
+                                                                                                                            </th>
+                                                                                                                        </tr>
+                                                                                                                    </table>
+                                                                                                                </th>
+                                                                                                                <th class="text-right small-5 large-5 columns last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0 auto; padding: 0; text-align: right; width: 225.6666666667px" align="right">
+                                                                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                        <tr style="height: 30px; line-height: 30px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; height: 30px; line-height: 30px; margin: 0; padding: 0; text-align: right" align="right">
+                                                                                                                                <?php echo '$';
+                                                                                                                                echo $order->get_total(); ?>
+                                                                                                                            </th>
+                                                                                                                        </tr>
+                                                                                                                    </table>
+                                                                                                                </th>
+                                                                                                            </tr>
+                                                                                                        </tbody>
+                                                                                                    </table>
+                                                                                                    <hr style="border-style: solid none none; border-top-color: #E2E5E7; border-top-width: 1px" />
+                                                                                                    <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                        <tbody>
+                                                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                <td height="20px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 20px; font-weight: normal; hyphens: none; line-height: 20px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;</td>
+                                                                                                            </tr>
+                                                                                                        </tbody>
+                                                                                                    </table>
+
+                                                                                                    <?php
+                                                                                                    if (ticket($order)) {
+                                                                                                    ?>
+                                                                                                        <table class="order-details-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
+                                                                                                            <tbody>
+                                                                                                                <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                    <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
+                                                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                            <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
+                                                                                                                                    <strong><?php echo 'First Name:';
+                                                                                                                                            echo $order->get_billing_first_name() ?></strong>
+                                                                                                                                </th>
+                                                                                                                                <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
+                                                                                                                            </tr>
+                                                                                                                        </table>
+                                                                                                                    </th>
+                                                                                                                </tr>
+                                                                                                            </tbody>
+                                                                                                        </table>
+                                                                                                        <table class="order-details-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
+                                                                                                            <tbody>
+                                                                                                                <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                    <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
+                                                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                            <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
+                                                                                                                                    <strong><?php echo 'Last Name:';
+                                                                                                                                            echo $order->get_billing_last_name() ?></strong>
+                                                                                                                                </th>
+                                                                                                                                <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
+                                                                                                                            </tr>
+                                                                                                                        </table>
+                                                                                                                    </th>
+                                                                                                                </tr>
+                                                                                                            </tbody>
+                                                                                                        </table>
+                                                                                                        <table class="order-details-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
+                                                                                                            <tbody>
+                                                                                                                <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                    <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
+                                                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                            <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
+                                                                                                                                    <strong><?php echo 'Email: ';
+                                                                                                                                            echo $order->get_billing_email() ?></strong>
+                                                                                                                                </th>
+                                                                                                                                <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
+                                                                                                                            </tr>
+                                                                                                                        </table>
+                                                                                                                    </th>
+                                                                                                                </tr>
+                                                                                                            </tbody>
+                                                                                                        </table>
+                                                                                                    <?php
+                                                                                                    } else {
+                                                                                                    ?>
+                                                                                                        <table class="order-details-row row" style="border-collapse: collapse; border-spacing: 0; display: table; padding: 0; position: relative; text-align: left; vertical-align: top; width: 100%">
+                                                                                                            <tbody>
+                                                                                                                <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                    <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
+                                                                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                                            <tr style="font-size: 15px; padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
+                                                                                                                                    <?php echo $order->get_formatted_billing_address() ?>
+                                                                                                                                </th>
+                                                                                                                                <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
+                                                                                                                            </tr>
+                                                                                                                        </table>
+                                                                                                                    </th>
+                                                                                                                </tr>
+                                                                                                            </tbody>
+                                                                                                        </table>
+                                                                                                    <?php
+                                                                                                    }
+                                                                                                    ?>
+
+                                                                                                    <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                                                        <tbody>
+                                                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                                <td height="24px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: normal; hyphens: none; line-height: 24px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;</td>
+                                                                                                            </tr>
+                                                                                                        </tbody>
+                                                                                                    </table>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
                                                                             </tr>
                                                                         </tbody>
                                                                     </table>
@@ -2138,7 +2140,7 @@ cflaDoI2hObL6fv4hqcwtPaSNHqxWd+Lo+jeKf4rTphm2ahK/oc0Dx74L2Hl
                                                                                                 <td class="em_side" style="width: 38px;" width="38">&nbsp; </td>
                                                                                                 <td style="width: 36px;" width="36" align="center" valign="top"> <a style="text-decoration: none;" href="https://mail.picmonkey.com/e2t/tc/VXjJWS91dbNXW3Pn8d22tRr9vW8pQGPD4jt8sWN63y6mw2-HvfV1-WJV7CgLT-W8F05nZ6JsDbFW40jFVZ18QTg4W5C_0ns2GSdz3W8Nwqlg1J075LW5DNZFk7VgM7LW5-MTkJ3wzs52W5RxQK14JrqHnW7gfwwb8Lsm6yVlMDWT5vrNkbW8C3sCt6J2Rl5W5SzdDq3J911DW6MXqtM50zYVlW3tVdHD5Qlf59W6Z6TSP8CXcZbW1N2rLn2xDz_TW5SGt4v6wdJKSW4xdx3b3WfkR-W6MyDl28rgLFJ3pZN1" target="_blank" data-hs-link-id="0"> <img style="display: block; font-family: Arial, sans-serif; font-size: 11px; line-height: 13px; color: #ffffff; max-width: 36px;" src="https://images.emailaptitude.com/Pic_Monkey/2020/07_July/07.20.20_Make-This-Thing/tw.png" border="0" alt="Instagram" width="36" height="36"> </a> </td>
                                                                                                 <td class="em_side" style="width: 38px;" width="38">&nbsp; </td>
-                                                                                                    
+
                                                                                             </tr>
                                                                                         </tbody>
                                                                                     </table>
@@ -2200,7 +2202,7 @@ cflaDoI2hObL6fv4hqcwtPaSNHqxWd+Lo+jeKf4rTphm2ahK/oc0Dx74L2Hl
                                                                                         <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
                                                                                             <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
                                                                                                 <div class="flash_message">
-                                                                                                    <img src="https://ccs.meteorco.de/wp-content/uploads/2021/09/cropped-cropped-cooklogo_HQ2.png" alt="" >
+                                                                                                    <img src="https://ccs.meteorco.de/wp-content/uploads/2021/09/cropped-cropped-cooklogo_HQ2.png" alt="">
                                                                                                 </div>
                                                                                             </th>
                                                                                             <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
