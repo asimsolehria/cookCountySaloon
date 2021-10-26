@@ -12,6 +12,8 @@ $address;
     <meta name="viewport" content="width=device-width" />
 </head>
 
+
+
 <body style="-moz-box-sizing: border-box; -ms-text-size-adjust: 100%; -webkit-box-sizing: border-box; -webkit-text-size-adjust: 100%; box-sizing: border-box; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 22px; margin: 0; min-width: 100%; padding: 0; text-align: left; width: 100% !important">
     <style type="text/css">
         body {
@@ -1486,17 +1488,13 @@ cflaDoI2hObL6fv4hqcwtPaSNHqxWd+Lo+jeKf4rTphm2ahK/oc0Dx74L2Hl
                                                                                                                                 </tbody>
                                                                                                                             </table>
                                                                                                                             <br />
-                                                                                                                            <?php
-                                                                                                                            if (ticket($order)) {
-                                                                                                                            ?>
-                                                                                                                                <small style="color: #6F7881; font-size: 14px; font-weight: normal; line-height: 20px">
+
+                                                                                                                            <!-- <small style="color: #6F7881; font-size: 14px; font-weight: normal; line-height: 20px">
                                                                                                                                     Ticket type
                                                                                                                                 </small>
                                                                                                                                 <br />
                                                                                                                                 You're Early! 1-Day Ticket
-                                                                                                                            <?php
-                                                                                                                            }
-                                                                                                                            ?>
+                                                                                                                            -->
                                                                                                                             <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
                                                                                                                                 <tbody>
                                                                                                                                     <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
@@ -1552,28 +1550,63 @@ cflaDoI2hObL6fv4hqcwtPaSNHqxWd+Lo+jeKf4rTphm2ahK/oc0Dx74L2Hl
                                                         </tbody>
                                                     </table>
 
-                                                    <table class="milkyway-content row" style="border-collapse: collapse; border-spacing: 0; display: table; hyphens: none; margin: auto; max-width: 100%; padding: 0; position: relative; text-align: left; vertical-align: top; width: 280px !important">
-                                                        <tbody>
-                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
-                                                                    <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                        <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                            <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
-                                                                                <table class=" spacer " style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
-                                                                                    <tbody>
-                                                                                        <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
-                                                                                            <td height="15px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; hyphens: none; line-height: 15px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">&#160;</td>
-                                                                                        </tr>
-                                                                                    </tbody>
-                                                                                </table>
-                                                                            </th>
-                                                                            <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
-                                                                        </tr>
-                                                                    </table>
-                                                                </th>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
+                                                    <?php
+                                                    if (partyPackages($order)) {
+                                                    ?>
+                                                        <table class="milkyway-content row" style="border-collapse: collapse; border-spacing: 0; display: table; hyphens: none; margin: auto; max-width: 100%; padding: 0; position: relative; text-align: left; vertical-align: top; width: 280px !important">
+                                                            <tbody>
+                                                                <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                    <th class=" small-12 large-12 columns first last" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0 auto; padding: 0; text-align: left; width: 564px" align="left">
+                                                                        <table style="border-collapse: collapse; border-spacing: 0; padding: 0; text-align: left; vertical-align: top; width: 100%">
+                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                <th style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left" align="left">
+                                                                                    <table class=" spacer " style="border-collapse: collapse; border-spacing: 3; padding: 3; text-align: left; vertical-align: top; width: 100%">
+                                                                                        <tbody>
+                                                                                            <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
+                                                                                                <td colspan="2" height="15px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 22px; font-weight: bold; hyphens: none; line-height: 40px; margin-top: 10px; mso-line-height-rule: exactly; padding: 10px; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top">Your Chosen Options!</td><br>
+                                                                                            </tr>
+
+                                                                                            <?php
+                                                                                            $fields = customFields($order);
+
+                                                                                            foreach ($fields as $key => $value) {
+                                                                                                if (isGoldPackage($order)) {
+                                                                                                    if ($key == 'number_in_party_silver' || $key == 'bottle_selection' || $key == 'number_in_party_plat' || $key == 'tix_or_champ_silver') {
+                                                                                                        continue;
+                                                                                                    }
+                                                                                                } elseif (isSilverPackage($order)) {
+                                                                                                    if ($key == 'number_in_party_gold' || $key == 'bottle_selection' || $key == 'number_in_party_plat' || $key == 'tix_or_champ_gold') {
+                                                                                                        continue;
+                                                                                                    }
+                                                                                                } elseif (isPlatinumPackage($order)) {
+                                                                                                    if ($key == 'number_in_party_gold' || $key == 'number_in_party_silver' || $key == 'tix_or_champ_silver' || $key == 'tix_or_champ_gold') {
+                                                                                                        continue;
+                                                                                                    }
+                                                                                                }
+                                                                                            ?>
+
+                                                                                                <tr style="padding: 30px; text-align: left; align-items: center; ">
+                                                                                                    <td height="35px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; hyphens: none; line-height: 30px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: left; vertical-align: top; word-wrap: break-word" align="left" valign="top"><?php echo $value['label'] ?></td>
+                                                                                                    <td height="45px" style="-moz-hyphens: none; -webkit-hyphens: none; border-collapse: collapse !important; color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 600; hyphens: none; line-height: 30px; margin: 0; mso-line-height-rule: exactly; padding: 0; text-align: right; vertical-align: top; word-wrap: break-word" align="right" valign="top"><?php echo $value['value'] ?></td>
+                                                                                                </tr>
+
+                                                                                            <?php
+                                                                                            }
+
+                                                                                            ?>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </th>
+                                                                                <th class="expander" style="color: #1C232B; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-height: 1.3; margin: 0; padding: 0; text-align: left; visibility: hidden; width: 0" align="left"></th>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </th>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    <?php
+                                                    }
+                                                    ?>
                                                     <table class="listing-location space-darker-bkg container" align="center" style="background-color: #F5F5F5 !important; border-collapse: collapse; border-spacing: 0; margin: 0 auto; padding: 0; text-align: inherit; vertical-align: top; width: 100% !important" bgcolor="#F5F5F5">
                                                         <tbody>
                                                             <tr style="padding: 0; text-align: left; vertical-align: top" align="left">
@@ -2180,13 +2213,13 @@ cflaDoI2hObL6fv4hqcwtPaSNHqxWd+Lo+jeKf4rTphm2ahK/oc0Dx74L2Hl
                                                                             <tr>
                                                                                 <td class="ft_13" align="center" style="font-family: 'Lato', sans-serif; font-weight:400; font-size:13px; line-height:22px; color:#f6f6f7; text-decoration:none;" valign="top">
                                                                                     <br>
-                                                                                    1505 5th Avenue&nbsp;&nbsp;|&nbsp;&nbsp;Seattle,
-                                                                                    WA&nbsp;98101
+                                                                                    8010 Gateway Blvd NW &nbsp;&nbsp;|&nbsp;&nbsp; &nbsp;&nbsp;Edmonton&nbsp;&nbsp; &nbsp;&nbsp;|&nbsp;&nbsp; AB T6E 1X3
+                                                                                    &nbsp;Canada
                                                                                     <br>
-                                                                                    Our app is available on the
+                                                                                    <!-- Our app is available on the
                                                                                     <a href="https://mail.picmonkey.com/e2t/tc/VXjJWS91dbNXW3Pn8d22tRr9vW8pQGPD4jt8sWN63y6mQ2-HvyV1-WJV7CgQYBW7YJFnj8lkFMfW7CkGb33z1scxW7f3cp94wMWXdN3qgzjmYG2VxW1PdKn_1ykkw5W3BNMF55Q9br6W6XM_YN2knlC_W4Kk0Kg2vdq67W1mf9W35mvHNVW1n94H693mgZ_W7RnZVl7LVQTsW8hfbdY8RHK-lN5KFY-MND0VZW4t_Blg5sy6JkN4sjzYDT_8rNW1l9K6T62dkD5W3s3H026Hb_HZW9gWp7h96pjMYN20VP60CrKfVV5Lpcm5pg2qh37Ss1" style="text-decoration:underline; color:#f6f6f7;font-weight:700;" target="_blank" data-hs-link-id="0">APP
                                                                                         STORE</a> or <a href="https://mail.picmonkey.com/e2t/tc/VXjJWS91dbNXW3Pn8d22tRr9vW8pQGPD4jt8sWN63y6n52-HvSV1-WJV7CgzPTVkcnR06yD5ZjW5_7Q2X7xsShjW60qtXm3t1fYMW2sdQHZ3Pgg7gW5rzPWD6hb7PKW2KrXN56Dk7MkW6vB_1y8D0XJjW5VsVf05P2ZvWN57PlNHRCjMHW1tF8GH88CZ33N2385c42H5WDW5mrPDg56ylH_W8qKjZy6nwgPtW2Dsmdf8zSC-RW21Qnxt8yjlt7N7dl6zpFMKzJW2CG6m74PJfyyW2KZQLM7pjvWsW6Rlg8l5KXFGDW34SblK40q59TN9k7K8crzydCVyQm5d13D8gt2zT1" style="text-decoration:underline; color:#f6f6f7;font-weight:700;" target="_blank" data-hs-link-id="0">GOOGLE
-                                                                                        PLAY</a>
+                                                                                        PLAY</a> -->
                                                                                 </td>
                                                                             </tr>
                                                                             <tr>
